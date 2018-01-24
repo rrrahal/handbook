@@ -60,6 +60,8 @@ Atualmente temos dois grupos de estudo, um avançado e outro básico, que se re�
 
 ## O que você precisa fazer agora
 
+Agora você entra em nosso grupo do **Telegram** e nosso servidor do **Discord**, leia as atas das reuniões mais receentes dos times que lhe interessam, e nos diga no grupo do **Telegram** quais times você está interessado.
+
 ## Links úteis
 
 * Telegram: https://goo.gl/R6Kij2
