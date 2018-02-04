@@ -81,9 +81,9 @@ Agora você entra em nosso grupo do **Telegram** e nosso servidor do **Discord**
 
 ## Links úteis
 
-* Telegram: http://bit.ly/ucl_telegram
-* Discord: http://bit.ly/ucl_discord
-* Página do Facebook: http://bit.ly/ucl_facebook
-* Slides: http://bit.ly/ucl_slides
-* Reedit: http://bit.ly/ucl_reddit
-* Drive: http://bit.ly/ucl_drive
+* Telegram: bit.ly/ucl_telegram
+* Discord: bit.ly/ucl_discord
+* Página do Facebook: bit.ly/ucl_facebook
+* Slides: bit.ly/ucl_slides
+* Reedit: bit.ly/ucl_reddit
+* Drive: bit.ly/ucl_drive
